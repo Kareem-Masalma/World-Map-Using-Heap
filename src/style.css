@@ -1,0 +1,22 @@
+.button {
+    -fx-background-color: #3a8ca0;
+    -fx-border: none;
+    -fx-color: white;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+    -fx-margin: 4px 2px;
+    -fx-cursor: pointer;
+}
+
+.button:hover {
+    -fx-background-color: #5dc7e0;
+    -fx-color: white;
+}
+
+.button:pressed {
+    -fx-background-color: #9ab6bc;
+    -fx-color: white;
+}

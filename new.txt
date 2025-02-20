@@ -1,0 +1,186 @@
+Washington, London, 435, 404
+Washington, Tokyo, 855, 979
+Washington, Riyadh, 735, 976
+Washington, Brasília, 590, 681
+Washington, Mexico City, 319, 325
+Berlin, Paris, 110, 39
+Berlin, Brussels, 90, 45
+Berlin, Warsaw, 70, 129
+Berlin, Beijing, 545, 380
+Berlin, London, 115, 27
+Berlin, Stockholm, 100, 72
+Dublin, Washington, 490, 622
+Dublin, Cairo, 315, 375
+Dublin, Reykjavik, 160, 219
+Ottawa, Washington, 100, 166
+Ottawa, Paris, 420, 656
+Ankara, Berlin, 205, 91
+Ankara, Tehran, 185, 177
+Ankara, Cairo, 125, 109
+Ankara, Baghdad, 175, 68
+Ankara, Moscow, 255, 100
+Ankara, Bangkok, 530, 517
+Ankara, Kuala Lumpur, 680, 351
+Beijing, Moscow, 515, 353
+Beijing, Hanoi, 440, 148
+Beijing, Jakarta, 465, 746
+Beijing, Seoul, 130, 77
+Moscow, Tokyo, 974, 196
+Moscow, Tehran, 185, 196
+Moscow, Ankara, 265, 98
+Moscow, Warsaw, 120, 198
+Algiers, Paris, 155, 56
+Algiers, Cairo, 225, 249
+Tehran, Baghdad, 85, 226
+Tehran, Kuwait City, 95, 167
+Tehran, Abu Dhabi, 125, 163
+Paris, Washington, 525, 1371
+Paris, Madrid, 130, 49
+Paris, Rome, 125, 47
+Paris, Abu Dhabi, 400, 597
+Paris, Rabat, 250, 62
+Paris, Luanda, 530, 2103
+Paris, Hanoi, 810, 955
+Cape Town, Ankara, 680, 456
+Cape Town, Luanda, 240, 306
+Oslo, Stockholm, 60, 58
+Oslo, Copenhagen, 75, 66
+Oslo, Reykjavik, 190, 152
+Oslo, Helsinki, 90, 53
+Stockholm, Copenhagen, 75, 55
+Stockholm, Helsinki, 60, 39
+Helsinki, Ankara, 230, 159
+London, Ottawa, 455, 1056
+London, Paris, 75, 31
+London, Oslo, 125, 28
+London, Cape Town, 715, 416
+London, Dublin, 75, 44
+London, Seoul, 755, 708
+Cairo, Abu Dhabi, 190, 124
+Cairo, Rabat, 340, 238
+Cairo, Brussels, 290, 276
+Cairo, Copenhagen, 285, 250
+Cairo, Kuwait City, 174, 127
+Abu Dhabi, Riyadh, 115, 254
+Abu Dhabi, Amman, 210, 88
+Abu Dhabi, Baghdad, 160, 138
+Abu Dhabi, Islamabad, 190, 202
+Abu Dhabi, Cape Town, 590, 650
+Abu Dhabi, Dublin, 510, 526
+Riyadh, Cairo, 200, 200
+Riyadh, Abu Dhabi, 95, 260
+Riyadh, Amman, 160, 165
+Riyadh, Ankara, 270, 85
+Riyadh, Mogadishu, 225, 500
+Brasília, Buenos Aires, 215, 167
+Brasília, Santiago, 290, 126
+Brasília, Lima, 275, 216
+Brasília, Lisbon, 545, 576
+Canberra, Abu Dhabi, 860, 910
+Canberra, Tokyo, 575, 778
+Copenhagen, Berlin, 65, 33
+Copenhagen, Reykjavik, 210, 102
+Singapore, Canberra, 460, 160
+Rome, Berlin, 130, 50
+Rome, Athens, 120, 143
+Rome, Brussels, 140, 30
+Rome, Buenos Aires, 845, 795
+Rome, Seoul, 710, 401
+Rabat, Madrid, 100, 19
+Rabat, Abuja, 290, 527
+Jakarta, Ankara, 745, 511
+Jakarta, Canberra, 425, 721
+Jakarta, Bangkok, 210, 113
+Buenos Aires, Lima, 285, 289
+Buenos Aires, Mexico City,
+Buenos Aires, Paris, 775, 1434
+Tokyo, Beijing, 270, 126
+Tokyo, Seoul, 185, 83
+Tokyo, Bangkok, 445, 244
+Tokyo, Jerusalem, 800, 968
+Tokyo, Wellington, 635, 585
+Tokyo, Doha, 745, 545
+Madrid, London, 145, 19
+Madrid, Berlin, 185, 84
+Madrid, Rome, 150, 31
+Madrid, Lisbon, 85, 24
+Madrid, Jerusalem, 265, 229
+Madrid, Santiago, 815, 648
+Madrid, Amman, 350, 62
+Athens, Ankara, 90, 56
+Athens, Cairo, 115, 109
+Reykjavik, London, 180, 26
+Lima, Santiago, 211, 114
+Lima, Madrid, 695, 789
+Luanda, Lisbon, 475, 428
+Abuja, Paris, 405, 941
+Abuja, London, 400, 612
+Mexico City, Paris, 610, 1057
+Mexico City, Buenos Aires
+Mexico City, London, 610, 640
+Mexico City, Lima, 357, 195
+Mexico City, Madrid, 625, 395
+Mogadishu, Ankara, 445, 740
+Islamabad, London, 560, 434
+Islamabad, Bangkok, 285, 446
+Islamabad, Riyadh, 290, 255
+Bangkok, Singapore, 150, 54
+Bangkok, Hanoi, 105, 69
+Bangkok, Rome, 780, 645
+Bangkok, Tokyo, 365, 239
+Hanoi, Jakarta, 260, 132
+Hanoi, Tokyo, 310, 271
+Hanoi, Ankara, 530, 726
+Baghdad, Abu Dhabi, 130, 195
+Baghdad, Ankara, 185, 69
+Baghdad, Cairo, 160, 214
+Baghdad, Amman, 110, 170
+Warsaw, Paris, 150, 138
+Warsaw, London, 155, 20
+Warsaw, Rome, 150, 34
+Jerusalem, Athens, 130, 90
+Jerusalem, Bangkok, 670, 757
+Jerusalem, London, 325, 171
+Jerusalem, Abu Dhabi, 220, 162
+Jerusalem, Berlin, 250, 140
+Wellington, Canberra, 220, 146
+Wellington, Tokyo, 655, 733
+Santiago, Paris, 830, 907
+Santiago, Buenos Aires, 120, 75
+Santiago, Mexico City, 520, 673
+Seoul, Bangkok, 360, 98
+Seoul, Singapore, 400, 95
+Seoul, Canberra, 615, 191
+Seoul, Washington, 815, 1057
+Seoul, Paris, 900, 299
+Brussels, Paris, 60, 160 
+Brussels, London, 80, 68
+Brussels, Washington, 520, 1309
+Brussels, Lisbon, 180, 75
+Amman, Cairo, 90, 161
+Amman, Athens, 170, 190
+Amman, London, 345, 47
+Amman, Paris, 325, 352
+Amman, Doha, 165, 516
+Lisbon, Rabat, 95, 92
+Lisbon, Paris, 160, 36
+Lisbon, London, 165, 28
+Lisbon, Athens, 235, 254
+Lisbon, Dublin, 170, 58 
+Lisbon, Berlin, 205, 142
+Lisbon, Jerusalem, 315, 440
+Singapore, Wellington, 640, 496
+Singapore, Brussels, 835, 910
+Singapore, Hanoi, 210, 85
+Singapore, London, 860, 632
+Singapore, Abu Dhabi, 475
+Singapore, Kuala Lumpur, 60, 51
+Kuala Lumpur, Abu Dhabi, 445, 394
+Kuala Lumpur, Doha, 460, 307
+Kuala Lumpur, Tokyo, 410, 235
+Doha, Singapore, 455, 699
+Doha, Bangkok, 380, 691
+Doha, Hanoi, 380, 894
+Doha, Kuwait City, 85, 93
+Kuwait City, Riyadh, 75, 60
+Kuwait City, Amman, 135, 98
